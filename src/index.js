@@ -4,10 +4,6 @@
  * Module dependencies.
  */
 
-// var dap = require('../dap');
-// var debug = require('debug')('tester:server');
-// var http = require('http');
-
 import dap from './dap';
 import Debug from 'debug';
 import http from 'http';
